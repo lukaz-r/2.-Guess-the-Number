@@ -1,3 +1,3 @@
 import metodos
 
-metodos.joga()
+metodos.joga() #Inicia jogo
